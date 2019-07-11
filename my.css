@@ -1,1 +1,17 @@
 /* alteraçãos aqui */
+body{
+    border: 10xp;
+}
+/* icones */
+i.fa-facebook {
+    font-size: 40px;
+    margin-left: 50px;
+}
+.fa-instagram{
+    font-size: 40px;
+    margin-left: 50px;
+}
+.fa-fly{
+    font-size: 60px;
+/* --------------------------- */
+
