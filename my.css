@@ -1,7 +1,14 @@
 /* alteraçãos aqui */
-body{
-    border: 10xp;
+div#master{
+    margin: 20xp;
 }
+section.parte{
+    margin-top: 40px;
+}
+body{
+    background-color: #F0FFF0;
+}
+
 /* icones */
 i.fa-facebook {
     font-size: 40px;
@@ -13,5 +20,5 @@ i.fa-facebook {
 }
 .fa-fly{
     font-size: 60px;
+}
 /* --------------------------- */
-
