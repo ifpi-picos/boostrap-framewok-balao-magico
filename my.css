@@ -9,14 +9,25 @@ body{
     background-color: #F0FFF0;
 }
 
+.footer{
+    background-color: darkcyan;
+    text-align: center;
+}
+.jumbotron{
+    background-color: darkcyan;
+    text-align: center;
+}
+
 /* icones */
 i.fa-facebook {
     font-size: 40px;
     margin-left: 50px;
+    color: darkcyan
 }
 .fa-instagram{
     font-size: 40px;
     margin-left: 50px;
+    color: darkcyan
 }
 .fa-fly{
     font-size: 60px;
