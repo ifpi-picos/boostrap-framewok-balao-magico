@@ -2,32 +2,81 @@
 div#master{
     margin: 20xp;
 }
+
 section.parte{
     margin-top: 40px;
 }
 body{
-    background-color: #F0FFF0;
+    background-color: #E0FFFF;
+    color: black;
 }
 
 .footer{
-    background-color: darkcyan;
+    background-color: #333;
     text-align: center;
 }
 .jumbotron{
-    background-color: darkcyan;
+    background-color: #333;
     text-align: center;
+}
+
+.bg-light {
+    /* barra de navegação */
+    background-color: #333 !important;
+    color: #E0FFFF !important;
+}
+.navbar-light .navbar-brand{
+    /* logo */
+    color: #28a745
+}
+.jumbotron {
+    color: #28a745;
+    font-weight: bold !important;  
+
+}
+.display-4{
+    /* estilo da fonte dos jumbotron */
+    font-size: 80px;
+}
+.btn-primary{
+    /* botoes do formulario */
+    color: #28a745;
+    background-color:transparent;
+    border-color:#28a745;
+}
+.btn-primary:hover{
+    /* botoes do formulario */
+    color: black;
+    background-color:#28a745;
+    border-color:#28a745;
+}
+#pe{
+    color: #28a745;
+}
+.nav-link{
+    color: #28a745;
 }
 
 /* icones */
 i.fa-facebook {
     font-size: 40px;
     margin-left: 50px;
-    color: darkcyan
+    color: #333;
+}
+i.fa-facebook:hover {
+    font-size: 40px;
+    margin-left: 50px;
+    color: #28a745;
 }
 .fa-instagram{
     font-size: 40px;
     margin-left: 50px;
-    color: darkcyan
+    color: #333;
+}
+.fa-instagram:hover{
+    font-size: 40px;
+    margin-left: 50px;
+    color: #28a745;
 }
 .fa-fly{
     font-size: 60px;
